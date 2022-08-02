@@ -9,7 +9,7 @@ You can contact me with various methods listed here. If it's something confident
  - **IRC:** @m0rph
  - **PGP key can be found here[^1]:** [https://pastebin.com/EjAdkuqe](https://pastebin.com/EjAdkuqe) 
  - **Email:** whoismydns@protonmail.ch
- - **MatterMost:** https://mm.netsecfocus.com/nsf/channels/general
+ - **NetSecFocus MatterMost:** https://mm.netsecfocus.com/nsf/channels/general
  - **Discord:** tsunset#1324
 
 [^1]: Questions about using PGP? See [here](https://proton.me/support/how-to-use-pgp).
