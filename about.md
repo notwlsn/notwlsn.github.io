@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### **About**
-
 This is the homepage of me, m0rph. I'm a security generalist with experience on both the red and blue sides of security. Specifically I have experience in the fields of penetration testing, web application security, adversary emulation, purple teams, security infrastructure and operations, incident response, and internal awareness phishing campaigns. I currently work as an information security consultant.
 
 ### **Languages I know**
