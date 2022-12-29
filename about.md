@@ -1,28 +1,31 @@
 ---
 layout: page
-title: About
+title: whoami
 permalink: /about/
 ---
 
-This is the homepage of me, m0rph. I'm a security generalist with experience on both the red and blue sides of security. Specifically I have experience in the fields of penetration testing, web application security, adversary emulation, purple teams, security infrastructure and operations, incident response, and internal awareness phishing campaigns. I currently work as an information security consultant.
+This is the homepage of me, m0rph. I'm a security generalist with experience on both the red and blue sides of security. Specifically I have experience in the fields of penetration testing, web application security, adversary emulation, purple teams (see: [What's a purple team?](https://hackernoon.com/what-is-purple-teaming-in-cybersecurity)), security infrastructure and operations, incident response, and phishing/vishing campaigns. I currently work as an information security consultant.
 
 ### **Languages I know**
 
 - Python2/3
 - C/C++
-- Intel/AT&T/MIPS x86 assembly
 - JavaScript
 - HTML/CSS
 - PHP
 - mySQL/MSSQL/MariaDB
+- *Rust[^smallnote]*
+- *TypeScript[^smallnote]*
+- *Intel x86 assembly[^bignote]*
 - *Objective-C[^bignote]*
 - *Swift 4[^bignote]*
 
 [^bignote]: I'm still learning this language.
+[^smallnote]: I just started learning this language.
 
 ### **Books**
 
-The only thing I like more than being at a computer is reading about one. My favorite books are listed here:
+The only thing I like more than being at a computer is reading about one. Some books I've enjoyed recently  are listed here:
 
 1. "The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory" [1](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098)
 2. "Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation" [2](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
@@ -30,7 +33,7 @@ The only thing I like more than being at a computer is reading about one. My fav
 4. "Unix in a Nutshell, Fourth Edition" (O'Reilly) [4](https://www.amazon.com/Unix-Nutshell-Fourth-Arnold-Robbins/dp/0596100299/ref=sr_1_2?keywords=unix+in+a+nutshell&qid=1582601381&s=books&sr=1-2)
 5. "The Hacker Playbook 3: Practical Guide to Penetration Testing" [5](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/ref=sr_1_2?dchild=1&keywords=the+hacker+playbook+3&qid=1597607613&sr=8-2)
 
-### **Reading List**
+### **Papers**
 
 Essential papers I recommend reading:
 
@@ -38,7 +41,7 @@ Essential papers I recommend reading:
 2. "Technical Anaylsis of Pegasus Spyware" Lookout, 2016 [2](http://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf)
 3. "Uncovering DRBControl: Inside the Cyberespionage Campaign Targeting Gambling Operations" Trend Micro, 2019 [3](https://documents.trendmicro.com/assets/white_papers/wp-uncovering-DRBcontrol.pdf) 
 
-### **APT**
+### **APT (Advance Persistence Threat)**
 
 #### **APT groups**
 
