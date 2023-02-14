@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How a Linux User Enjoys macOS"
+title: "How a Linux User Enjoys macOS Monterey"
 date: 2022-12-20 18:35:23 -0500
 published: true
 ---
@@ -20,17 +20,11 @@ Vim hotkeys for web browsing. Very intuitive with more robust features than I ex
 ### [Rectangle](https://rectangleapp.com)
 Essential if you're going to stick to the stock Monterey window system. Hotkeys can be kinda complex but you're really going to want something for quick window management. Cannot understate how important this is.
 
-### [Obsidian](https://obsidian.md)
-I love markdown. It's only become increasingly useful to me since the blog build systems that are popular these days render HTML directly from `.md` / `.markdown` files. This is far and away the best markdown-supporting notes app I've tried.
-
 ### [Yabai](https://github.com/koekeishiya/yabai)
 If you're looking to go off the beaten path for a lot more customizability with a window manager, this is your only real direction on MacOS. 
 
 ### [skhd](https://github.com/koekeishiya/skhd)
 Hotkey daemon on MacOS, same developer as Yabai, and a great pairing to it. Simple but very usable.
-
-### [KeyCastr](https://github.com/keycastr/keycastr)
-Useful if you present, or for making demo videos. Especially in a technical setting where everyone has their own different configuration, it's really handy for viewers to see your keystrokes.
 
 ### [Taskbook](https://github.com/klaussinani/taskbook)
 Really handy command line interface task tracker. I also use Trello, but for simpler tasks and code tasks, taskbook suits my needs better.
