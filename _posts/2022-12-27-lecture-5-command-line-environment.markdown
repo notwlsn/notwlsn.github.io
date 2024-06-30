@@ -3,6 +3,7 @@ layout: post
 title: "Lecture 5: Command-line Environment"
 date: 2022-12-27 12:40:23 -0600
 published: true
+tags: computer-science shell unix
 ---
 
 ### Missing Semester IAP 2020

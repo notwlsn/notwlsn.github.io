@@ -41,6 +41,10 @@ kramdown:
   hard_warp: false
   math_engine: mathjax
 
+# Options for jekyll-tagging plugin (https://github.com/pattex/jekyll-tagging)
+tag_page_layout: tag_page
+tag_page_dir: tag
+
 # highlighter: rogue
 
 # Exclude from processing.

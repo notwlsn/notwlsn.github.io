@@ -12,6 +12,5 @@ You can contact me with various methods listed here. If it's something confident
  - **Email:** 
     - whoismydns@protonmail.ch
     - tsunset@proton.me
- - **NetSecFocus MatterMost:** https://mm.netsecfocus.com/nsf/channels/general
 
 [^1]: Questions about using PGP? See [here](https://proton.me/support/how-to-use-pgp).
