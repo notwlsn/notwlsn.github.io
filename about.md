@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the homepage of me, m0rph. I'm a security generalist with experience on both the red and blue sides of security. Specifically I have experience in the fields of penetration testing, web application security, adversary emulation, purple teams (see: [What's a purple team?](https://hackernoon.com/what-is-purple-teaming-in-cybersecurity)), security infrastructure and operations, incident response, and phishing/vishing campaigns. I currently work as an information security consultant.
+This is the homepage of m0rph. I'm a security consultant who specializes in network penetration testing. I also do web & mobile application security, Bluetooth Low Energy, and RFID/NFC. Additionally I've dabbled in reverse engineering, as well as some hardware. Thoughts and opionions are my own, not reflective of any employer.
 
-### **Languages I know**
+### **Languages**
 
 - Python2/3
 - C/C++
@@ -14,18 +14,15 @@ This is the homepage of me, m0rph. I'm a security generalist with experience on 
 - HTML/CSS
 - PHP
 - mySQL/MSSQL/MariaDB
-- *Rust[^smallnote]*
-- *TypeScript[^smallnote]*
-- *Intel x86 assembly[^bignote]*
-- *Objective-C[^bignote]*
-- *Swift 4[^bignote]*
-
-[^bignote]: I'm still learning this language.
-[^smallnote]: I just started learning this language.
+- *Rust*
+- *TypeScript*
+- *Intel x86 assembly*
+- *Objective-C*
+- *Swift 4*
 
 ### **Books**
 
-The only thing I like more than being at a computer is reading about one. Some books I've enjoyed recently  are listed here:
+These are some good technical books that helped me to build basic skills reverse engineering and helped me stay well-rounded working between Unix and Windows operating systems. 
 
 1. "The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory" [1](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098)
 2. "Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation" [2](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)

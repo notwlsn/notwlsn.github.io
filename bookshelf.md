@@ -74,7 +74,7 @@ permalink: /bookshelf/
 			</div>
 		</div>
 		<p work="">
-			Exploring what it means to be successful in a world that rewards hard work and luck. Gladwell discusses the factors that contribute to a high-level of success. Gladwell proposes that personal achievements are not solely caused by an individual traits such as hard-work and intelligence. Rather, success is often molded by external factors such as family, culture, and idiosyncratic opportunities that individuals encounter by chance. One thing that stuck with me from this book was the 10,000 hour rule, Gladwell claims that to achieve word-class expertise in any field an individual must spend around 10,000 hours on their skills.
+			Exploring what it means to be successful in a world that rewards hard work and luck.
 		</p>
 	</li>
 	<li book="">
@@ -102,7 +102,7 @@ permalink: /bookshelf/
 		</div>
 	</div>
 	<p work="">
-		This book is one of those that you read and end up citing it hundreds of times a week in conversation. A lot of the practices of my life have been directly altered because I read this book. Duhigg provides evidence and stories that support his theory that habitual tendencies significantly impact your life and inadvertently your success. After reading this book I realized habits are much more nuanced than I thought, like eating. Definitely recommend this book to anyone trying to shake a bad habit, build new habits, or learn about what habits are and how deeply they influence your decisions. 
+		This book is one of those that you read and end up citing it hundreds of times a week in conversation.
 	</p>
 	</li>
 		<li book="">
@@ -116,7 +116,7 @@ permalink: /bookshelf/
 		</div>
 	</div>
 	<p work="">
-		Best foundation you can get in programming. Scheme is old, and kinda obtuse, but it helped someone who  
+		Best foundation you can get in programming. Scheme is old, and kinda obtuse, but it helped someone who 
 	</p>
 	</li>
 		<li book="">
@@ -140,5 +140,5 @@ permalink: /bookshelf/
 
 [Outliers: The Story Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930){: style="font-weight: 500; display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 4px; color: #4183C4; text-decoration: none; cursor: pointer;"}
 
-Exploring what it means to be successful in a world that rewards hard work and luck. Gladwell discusses the factors that contribute to a high-level of success. Gladwell proposes that personal achievements are not solely caused by an individual traits such as hard-work and intelligence. Rather, success is often molded by external factors such as family, culture, and idiosyncratic opportunities that individuals encounter by chance. One thing that stuck with me from this book was the 10,000 hour rule, Gladwell claims that to achieve word-class expertise in any field an individual must spend around 10,000 hours on their skills. 
+Exploring what it means to be successful in a world that rewards hard work and luck. 
 {: style="color: #666; font-size: medium; line-height: 1.5; margin: 0; text-wrap: pretty;"}
